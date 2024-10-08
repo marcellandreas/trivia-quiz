@@ -113,4 +113,4 @@ npm run build
 
 ## Lisensi
 
-Proyek ini menggunakan lisensi MIT. Lihat file [Lisensi](./LICENSE.md)untuk informasi lebih lanjut.
+Proyek ini menggunakan lisensi MIT. Lihat file [Lisensi](./LICENSE.md) untuk informasi lebih lanjut.
